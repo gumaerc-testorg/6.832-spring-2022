@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 401f3f10-775d-4070-aa94-878539f88189
+  name: Spring 2022 Course
+  pageRef: /external-resources/spring-2022-course_401f3f10-775d-4070-aa94-878539f88189
+  weight: 10
+- identifier: 941e37b6-7f0c-40f2-a0e5-ef6c0d775053
+  name: Online Textbook
+  pageRef: /external-resources/online-textbook_941e37b6-7f0c-40f2-a0e5-ef6c0d775053
+  weight: 20
