@@ -40,9 +40,10 @@
     "website": "6832-underactuated-robotics-s22"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Lecture Videos"
   ],
   "site_uid": "274afc13-b030-4383-923b-dcfdadbccf48",
-  "site_short_id": "6.832-spring-2022"
+  "site_short_id": "6.832-spring-2022",
+  "site_url_path": "courses/6-832-underactuated-robotics-spring-2022"
 }
